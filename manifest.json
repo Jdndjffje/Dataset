@@ -1,0 +1,9 @@
+{
+  "name": "Xona DBD Dataset",
+  "revision": 1,
+  "folders": {
+    "positives_cropped": "positives_cropped",
+    "positives_full": "positives_full",
+    "negatives_full": "negatives_full"
+  }
+}
